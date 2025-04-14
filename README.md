@@ -1,4 +1,4 @@
-# Assignment5
+# Documentation
 Your character and background design choices:
 Since my last game had a space theme, I wanted to keep the colors from it. Instead of doing space this time, I got inspired by the backgrounds of games in the “90s”. My character is a hooded figure that stands out from the background. They kind of look like an astronaut but also like someone who could be in regular life. The background is a calm night sky, but the character is mysterious which can set my game up for my character to be an explorer. 
 
